@@ -1,0 +1,2 @@
+export const supabaseUrl ='https://aromsviithjnzhprbbny.supabase.co';
+export const supabaseAnonKey ='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFyb21zdmlpdGhqbnpocHJiYm55Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjMxNDAzMDMsImV4cCI6MjAzODcxNjMwM30.Lao6LDz6aabaFIz-qw4kmHsIigXCNLCxwTOtUAqk_yc';
